@@ -1,0 +1,1 @@
+9999999999{"name": "pytils", "version": "0.4.1", "summary": "Russian-specific string utils", "requires_dist": null, "requires_python": "^3.7", "files": [{"file": "pytils-0.4.1.tar.gz", "hash": "sha256:aa109b1bc0ec4bdb7c9768520110348d8aeb0706600e6cf641272e6850e26eab"}], "yanked": false, "_cache_version": "2.0.0"}

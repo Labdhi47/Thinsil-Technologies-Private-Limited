@@ -1,0 +1,1 @@
+9999999999{"name": "tools", "version": "0.1.9", "summary": "Set of tools for web scraping projects", "requires_dist": ["pytils", "six", "lxml"], "requires_python": null, "files": [{"file": "tools-0.1.9.tar.gz", "hash": "sha256:7b7f998462cf5b02635fba76cc7cdb3653468aa46ff074b979dbecdb2a2fb014"}], "yanked": false, "_cache_version": "2.0.0"}
